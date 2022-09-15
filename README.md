@@ -1,6 +1,6 @@
 # The power of good default configs in BioMed HPC 
 
-## Abstract
+## Abstract of BoF 129 at SC22 in Dallas, TX 
 
 **The blog Codinghorror wrote in 2007: “Choose good defaults, and users will sing the praises of your system and how easy it is to use. Choose poor defaults, and you'll face down user angst over configuration, and a host of tech support calls as well.” 
 We will discuss how choosing good defaults can help us increase the productivity of our less sophisticated users. Ultimately, we want HPC to be more inclusive and welcoming towards an increasingly diverse user community, for example from life and social sciences background.**
